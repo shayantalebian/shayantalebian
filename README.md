@@ -1,4 +1,4 @@
-### It's Shayan Talebian dude
+# It's Shayan Talebian dude
 
 ## A 17 yaers old math high school student who is really into programming and economic
 
@@ -16,6 +16,6 @@
 
 ## Links
 
-- [twitter]: (https://twitter.com/ShaYan_TL)
-- [instagram]: (https://www.instagram.com/im.shayaan/)
-- [linkdeen]: (https://www.linkedin.com/in/shayan-talebian-331a11208/)
+- [twitter](https://twitter.com/ShaYan_TL)
+- [instagram](https://www.instagram.com/im.shayaan/)
+- [linkdeen](https://www.linkedin.com/in/shayan-talebian-331a11208/)
