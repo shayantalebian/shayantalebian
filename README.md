@@ -2,8 +2,6 @@
 
 ## A 17 yaers old math high school student who is really into programming and economic
 
----
-
 ## More about my skills
 
 - ✔ I’m currently learning advanced CSS with [Jonas](https://codingheroes.io/)
