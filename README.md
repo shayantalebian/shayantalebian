@@ -4,9 +4,9 @@
 
 ## More about my skills
 
-- ✔ I’m currently learning advanced CSS with [Jonas](https://codingheroes.io/)
-- ⚙ I'm a Front-end developer (HTML, CSS and SASS, JavaScript)
-- 😍 I’m doing my best to become a full-stack developer who can build everthing
+- ✔ I’m currently learning JavaScript [Jonas](https://codingheroes.io/)
+- ⚙ I'm becoming Back-end Developer (HTML, CSS, JavaScript, Node.js, Express, Mongo.db)
+- 😍 I’m doing my best to become a Mern-stack developer who can build everthing
 - ⚡ Fun fact: I love to trade on various markets linke cryptocurrencies
 - 😻 Check out the last project I built [PigGame](https://github.com/shayantalebian/PigGame)
 
