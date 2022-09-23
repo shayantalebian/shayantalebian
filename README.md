@@ -4,11 +4,11 @@
 
 ## More about my skills
 
-- ✔ I’m currently learning JavaScript [Jonas](https://codingheroes.io/)
-- ⚙ I'm becoming Back-end Developer (HTML, CSS, JavaScript, Node.js, Express, Mongo.db)
-- 😍 I’m doing my best to become a Mern-stack developer who can build everthing
-- ⚡ Fun fact: I love to trade on various markets linke cryptocurrencies
-- 😻 Check out the last project I built [PigGame](https://github.com/shayantalebian/PigGame)
+- ✔ I’m currently taking [The Odin Project]([https://codingheroes.io/](https://www.theodinproject.com/)).
+- ⚙ I'm becoming Full-Stack Web Developer.
+- 😍 I’m doing my best to become a guy who could build anything that he want!
+- ⚡ Fun fact: I love to trade on various markets like cryptocurrencies
+- 😻 My new Project will be available soon...
 
 ---
 
