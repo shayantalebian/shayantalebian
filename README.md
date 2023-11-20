@@ -1,13 +1,13 @@
 # It's Shayan Talebian dude
 
-## A 17 yaers old math high school student who is really into programming and economic
+## A 18 yaers old computer engineering student in Tehran Shomal university who is really into programming and economic
 
 ## More about my skills
 
-- ✔ I’m currently taking [The Odin Project]([https://codingheroes.io/](https://www.theodinproject.com/)).
-- ⚙ I'm becoming Full-Stack Web Developer.
+- ✔ I’m currently taking [IOS app develompent course](https://www.udemy.com/course/ios-13-app-development-bootcamp/).
+- ⚙ I'm becoming Full-Stack Developer.
 - 😍 I’m doing my best to become a guy who could build anything that he want!
-- ⚡ Fun fact: I love to trade on various markets like cryptocurrencies
+- ⚡ Fun fact: I am also a forex trader.
 - 😻 My new Project will be available soon...
 
 ---
@@ -15,5 +15,5 @@
 ## Links
 
 - [twitter](https://twitter.com/ShaYan_TL)
-- [instagram](https://www.instagram.com/im.shayaan/)
+- [instagram](https://www.instagram.com/_shayantl/)
 - [linkdeen](https://www.linkedin.com/in/shayan-talebian-331a11208/)
