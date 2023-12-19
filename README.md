@@ -1,4 +1,4 @@
-# It's Shayan Talebian dude
+# It's Shayan Talebian
 
 ## A 18 yaers old computer engineering student in Tehran Shomal university who is really into programming and economic
 
