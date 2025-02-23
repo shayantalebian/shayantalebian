@@ -16,6 +16,6 @@
 
 ### Connect with Me
 
-- [Twitter](https://twitter.com/ShaYan_TL)
-- [Instagram](https://www.instagram.com/shayantl_pv/)
+- 🐦 [Twitter](https://twitter.com/ShaYan_TL)
+- 📸 [Instagram](https://www.instagram.com/shayantl_pv/)
 - 📧 **Email:** [shayantalebian@gmail.com](mailto:shayantalebian@gmail.com)
