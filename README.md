@@ -1,18 +1,21 @@
 # It's Shayan Talebian
 
-## A 19 yaers old computer engineering student in Tehran Shomal university who is really into programming and fx trading.
-
-## More about my skills
-
-- ✔ I’m currently taking web development courses at [Botostart](https://www.botostart.ir/)
-- ⚙ I'm becoming Full-Stack web developer.
-- 😍 I’m doing my best to become a guy who could build anything that he want!
-- ⚡ Fun fact: I am also a forex trader.
-- 😻 My new Project will be available soon...
+## A 19-year-old Computer Engineering student at Tehran Shomal University, passionate about programming and forex trading.
 
 ---
 
-## Links
+### More About My Skills
 
-- [twitter](https://twitter.com/ShaYan_TL)
-- [instagram](https://www.instagram.com/_shayantl/)
+- ✔ **Currently mastering** Python and SQL
+- ⚙ **Aiming to become** a Full-Stack Python Developer with a focus on AI
+- 😍 **Focused on building** anything I can imagine and bringing ideas to life
+- ⚡ **Fun Fact:** I am also a Forex trader
+- 😻 **Exciting new project** coming soon...
+
+---
+
+### Connect with Me
+
+- [Twitter](https://twitter.com/ShaYan_TL)
+- [Instagram](https://www.instagram.com/shayantl_pv/)
+- 📧 **Email:** [shayantalebian@gmail.com](mailto:shayantalebian@gmail.com)
