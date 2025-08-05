@@ -1,4 +1,5 @@
-Shayan Talebian
+## Shayan Talebian
+
 **Full-Stack Python Developer | AI/ML Engineer**  
 Driven by a deep curiosity for innovation, I harness the power of Python and AI to tackle real-world challenges—always eager to learn and grow in the ever-evolving tech landscape.
 
