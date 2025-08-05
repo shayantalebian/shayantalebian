@@ -1,21 +1,29 @@
-# It's Shayan Talebian
+# <span style="color:#ff6b6b">P</span><span style="color:#48dbfb">a</span><span style="color:#1dd1a1">r</span><span style="color:#feca57">n</span><span style="color:#5f27cd">i</span><span style="color:#ff9ff3">a</span><span style="color:#00d2d3">n</span> Shayan Talebian
+**Full-Stack Python Developer | AI/ML Engineer**  
+Driven by a deep curiosity for innovation, I harness the power of Python and AI to tackle real-world challenges—always eager to learn and grow in the ever-evolving tech landscape.
 
-## A 19-year-old Computer Engineering student at Tehran Shomal University, passionate about programming and forex trading.
+🔬 Currently working on: **Predictive models & Advanced Python & Databases**  
+📋 Learning: **Advanced Python, Data Analysis,SQL**  
 
 ---
 
-### More About My Skills
+<p align="center">
 
-- ✔ **Currently mastering** Python and SQL
-- ⚙ **Aiming to become** a Full-Stack Python Developer with a focus on AI
-- 😍 **Focused on building** anything I can imagine and bringing ideas to life
-- ⚡ **Fun Fact:** I am also a Forex trader
-- 😻 **Exciting new project** coming soon...
-
+   <img src="https://github-readme-stats.vercel.app/api?username=shayantalebian&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&theme=algolia" alt="shayantalebian"/>
+   <br><br>
+   <img src="https://github-profile-trophy.vercel.app/?username=shayantalebian&theme=algolia&column=5&margin-w=15&margin-h=15" alt="shayantalebian"/>
+   <br><br>
+   <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=shayantalebian&theme=algolia&card_width=800" alt="shayantalebian"/>
+   <br><br>
+  
+  
+   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=shayantalebian&bg_color=RRGGBBAA&title_color=00aeff&color=00aeff&line=00aeff&point=2ddc97&hide_border=true&custom_title=Contribution%E2%A0%80Graph" alt="shayantalebian"/>
+  
+   
+  </p>
+  
 ---
 
 ### Connect with Me
 
-- 🐦 [Twitter](https://twitter.com/ShaYan_TL)
-- 📸 [Instagram](https://www.instagram.com/shayantl_pv/)
 - 📧 [Email](mailto:shayantalebian@gmail.com)
