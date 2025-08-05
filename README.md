@@ -1,4 +1,4 @@
-# <span style="color:#ff6b6b">P</span><span style="color:#48dbfb">a</span><span style="color:#1dd1a1">r</span><span style="color:#feca57">n</span><span style="color:#5f27cd">i</span><span style="color:#ff9ff3">a</span><span style="color:#00d2d3">n</span> Shayan Talebian
+Shayan Talebian
 **Full-Stack Python Developer | AI/ML Engineer**  
 Driven by a deep curiosity for innovation, I harness the power of Python and AI to tackle real-world challenges—always eager to learn and grow in the ever-evolving tech landscape.
 
